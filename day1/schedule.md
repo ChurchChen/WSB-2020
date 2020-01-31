@@ -1,6 +1,6 @@
 ### **Day 1** (Jan 12)
 
-![1580470044410](C:\Users\Church\AppData\Roaming\Typora\typora-user-images\1580470044410.png)
+![1580470044410](https://github.com/ChurchChen/WSB-2020/blob/master/img/1580470044410.png)
 
 08:30 - 09:00     Registration
 
