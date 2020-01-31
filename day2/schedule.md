@@ -15,7 +15,7 @@
 
 
 11:00 - 12:30      [**Jia Wu, Introduction to ARM Hardware**](https://www.comp.hkbu.edu.hk/wsb2020/hands_on.php)
-							![1580471679045](C:\Users\Church\AppData\Roaming\Typora\typora-user-images\1580471679045.png)
+							![1580471679045](https://github.com/ChurchChen/WSB-2020/blob/master/img/1580471679045.png)
 
 ![1580471720677](https://github.com/ChurchChen/WSB-2020/blob/master/img/1580471720677.png)
 
