@@ -1,18 +1,11 @@
 # WSB-2020
-Note for WSB 2020
+Record for WSB 2020
 
 The IAPR/IEEE Winter School on Biometrics 2020 will be held at Shenzhen on 12 to 16 January 2020. Jointly organized by the Department of Computer Science, Hong Kong Baptist University, the Institute of Automation, Chinese Academy of Sciences, and the Department of Computer Science and Engineering, Southern University of Science and Technology, the course will include lectures, hands-on session, talks from industry and social programme. To consolidate the fundamental knowledge of biometrics and share the latest biometric development, the scope of the programme is designed to cover the topics which mainly include mobile biometrics, anti-spoofing, template protection, and fundamental of different biometric modalities. Since the topics are relatively new and challenging, the programme is conducted by internationally renowned experts from all over the world. Based on advanced biometric technology, the main objective of the programme is to equip the participants with up-to-date biometric knowledge and provide an opportunity for the participants to develop their own personal and professional connections for future career.
 
+
+
 ## [Lecturers]( https://www.comp.hkbu.edu.hk/wsb2020/lecturer.php )
-
-
-
-### [Julian Fierrez](http://atvs.ii.uam.es/fierrez/)
-
-Universidad Autónoma de Madrid, Spain
-[Signature Biometrics and Forensics](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=1)[[slides 1\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Julian_Fierrez_1.pdf) 5.26MB[[slides 2\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Julian_Fierrez_2.pdf) 1.70MB
-
-
 
 ### **Day 1** (Jan 12)
 
@@ -31,7 +24,7 @@ University of Sassari, Italy
 
 [**Jing Xiao, Biometrics Applications in PingAn**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=12)
 
-![Jing Xiao](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/jing_xiao.jpg)
+<img src="https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/jing_xiao.jpg" alt="Jing Xiao" style="zoom: 25%;" />
 
 ### [Jing Xiao](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=12)
 
