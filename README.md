@@ -31,13 +31,6 @@ Ping An Group
 
 
 
-### [Jing Xiao](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=12)
-
-Ping An Group
-[Biometrics Applications in PingAn](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=12)
-
-
-
 ![P C Yuen](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/pcyuen.jpg)
 
 ### [P C Yuen](http://www.comp.hkbu.edu.hk/~pcyuen/)
@@ -76,6 +69,8 @@ Osaka University, Japan
 [**Yasushi Yagi, Human Gait Analysis**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=13)
 
 ### 
+
+![jiawu](https://github.com/ChurchChen/WSB-2020/blob/master/img/jiawu.png)
 
 [**Jia Wu, Introduction to ARM Hardware**](https://www.comp.hkbu.edu.hk/wsb2020/hands_on.php)
 
