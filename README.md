@@ -12,7 +12,7 @@ The IAPR/IEEE Winter School on Biometrics 2020 will be held at Shenzhen on 12 to
 Universidad Autónoma de Madrid, Spain
 [Signature Biometrics and Forensics](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=1)[[slides 1\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Julian_Fierrez_1.pdf) 5.26MB[[slides 2\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Julian_Fierrez_2.pdf) 1.70MB
 
-## Slides
+
 
 ### **Day 1** (Jan 12)
 
@@ -27,54 +27,64 @@ University of Sassari, Italy
 
 [[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Massimo_Tistarelli.pdf) 112MB
 
+
+
 [**Jing Xiao, Biometrics Applications in PingAn**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=12)
 
-<img src="https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/jing_xiao.jpg" align='left' alt="Jing Xiao" style="zoom: 33%;" />
+![Jing Xiao](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/jing_xiao.jpg)
 
 ### [Jing Xiao](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=12)
 
 Ping An Group
 [Biometrics Applications in PingAn](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=12)
 
-[**P C Yuen, Face Biometrics System Security**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=14)
+
+
+### [Jing Xiao](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=12)
+
+Ping An Group
+[Biometrics Applications in PingAn](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=12)
+
+
+
+![P C Yuen](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/pcyuen.jpg)
+
+### [P C Yuen](http://www.comp.hkbu.edu.hk/~pcyuen/)
+
+Hong Kong Baptist University, Hong Kong
+[Face Biometrics System Security](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=14)
 
 [[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/PC_Yuen.pdf) 18.5MB
 
 
 
-[**Ajay Kumar, Contactless Palmprint Identification**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=4)
-
-[[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Ajay_Kumar.pdf) 5.47MB
+![Ajay Kumar](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/ajay-kumar.jpg)
 
 ### [Ajay Kumar](http://www.comp.polyu.edu.hk/~csajaykr)
 
 The Hong Kong Polytechnic University, Hong Kong
-[Contactless Palmprint Identification](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=4)[[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Ajay_Kumar.pdf) 5.47MB
+[Contactless Palmprint Identification](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=4)
+
+[[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Ajay_Kumar.pdf) 5.47MB
+
+[**Ajay Kumar, Contactless Palmprint Identification**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=4)
+
+
 
 ### Day 2 (Jan 13)
 
-[**Yasushi Yagi, Human Gait Analysis**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=13)
-
-[[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Yasushi_Yagi.pdf) 34.6MB
+![Yasushi Yagi](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/yasushi-yagi.jpg)
 
 ### [Yasushi Yagi](http://www.am.sanken.osaka-u.ac.jp/~yagi/)
 
-  <img  src="https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/yasushi-yagi.jpg" align='left'/>  
-
-
-
-
-
-
-
-
-
-
-
 Osaka University, Japan
-[Human Gait Analysis](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=13)[[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Yasushi_Yagi.pdf) 34.6MB
+[Human Gait Analysis](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=13)
 
+[[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Yasushi_Yagi.pdf) 34.6MB
 
+[**Yasushi Yagi, Human Gait Analysis**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=13)
+
+### 
 
 [**Jia Wu, Introduction to ARM Hardware**](https://www.comp.hkbu.edu.hk/wsb2020/hands_on.php)
 
@@ -88,17 +98,34 @@ Osaka University, Japan
 
 ### **Day 3** (Jan 14)
 
-[**Sébastien Marcel, Biometric Presentation Attack Detection**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=6)
+
+
+![Sébastien Marcel](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/sebastien-marcel.jpg)
+
+### [Sébastien Marcel](http://www.idiap.ch/~marcel)
+
+Idiap and EPFL, Switzerland
+[Biometric Presentation Attack Detection](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=6)
 
 [[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Sébastien_Marcel.pdf) 93.8MB
 
+![Annalisa Franco](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/annalisa-franco.png)
 
+### [Annalisa Franco](https://www.unibo.it/sitoweb/annalisa.franco/en)
 
-[**Annalisa Franco, Fingerprint Recognition: State-of-the-Art and New Directions**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=2)
+University of Bologna, Italy
+[Fingerprint Recognition: State-of-the-Art and New Directions](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=2)
 
 [[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Annalisa_Franco.pdf) 13.2MB
 
 
+
+![Mark Nixon](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/mark-nixon.png)
+
+### [Mark Nixon](https://www.ecs.soton.ac.uk/people/msn)
+
+University of Southampton, UK
+[Soft Biometrics](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=7)[[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Mark_Nixon.pdf) 9.23MB
 
 **[Panel Sharing and Discussion](https://www.comp.hkbu.edu.hk/wsb2020/panel_sharing.php)**
 
@@ -108,19 +135,36 @@ Osaka University, Japan
 
 ### **Day 4** (Jan 15)
 
-[**Brian Lovell, Biometrics in Surveillance Videos**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=5)
+![Brian Lovell](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/brian-lovell.jpg)
+
+### [Brian Lovell](https://researchers.uq.edu.au/researcher/327)
+
+University of Queensland, Australia
+[Biometrics in Surveillance Videos](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=5)
 
 [[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Brian_Lovell.pdf) 20.1MB
 
 
 
-[**Mark Nixon, Soft Biometrics**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=7)
+![Mark Nixon](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/mark-nixon.png)
+
+### [Mark Nixon](https://www.ecs.soton.ac.uk/people/msn)
+
+University of Southampton, UK
+[**Soft Biometrics**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=7)
 
 [[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Mark_Nixon.pdf) 9.23MB
 
 
 
-[**Zhenan Sun, Iris Recognition: Sensors, Algorithms and Applications**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=9)
+
+
+![Zhenan Sun](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/zhenan-sun.jpg)
+
+### [Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun/)
+
+Institute of Automation, Chinese Academy of Sciences, China
+[**Iris Recognition: Sensors, Algorithms and Applications**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=9)
 
 [[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Zhenan_Sun.pdf) 21.1MB
 
@@ -128,20 +172,36 @@ Osaka University, Japan
 
 ### **Day 5** (Jan 16)
 
-[**Arun Ross, Fusion and Privacy in Biometrics**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=8)
+![Arun Ross](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/arun-ross.png)
+
+### [Arun Ross](http://www.cse.msu.edu/~rossarun/)
+
+Michigan State University, US
+[**Fusion and Privacy in Biometrics**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=8)
 
 
 
+![Julian Fierrez](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/julian-fierrez.jpg)
 
-[**Julian Fierrez, Signature Biometrics and Forensics**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=1)
+### [Julian Fierrez](http://atvs.ii.uam.es/fierrez/)
+
+Universidad Autónoma de Madrid, Spain
+[**Signature Biometrics and Forensics**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=1)
 
 [[slides 1\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Julian_Fierrez_1.pdf) 5.26MB
 
 [[slides 2\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Julian_Fierrez_2.pdf) 1.70MB
 
-[**Josef Kittler, Fusion of Multimodal Biometrics**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=3)
 
-[[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Josef_Kittler.pdf) 5.80MB
+
+![Josef Kittler](https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/josef-kittler.jpg)
+
+### [Josef Kittler](https://www.surrey.ac.uk/people/josef-kittler)
+
+University of Surrey, UK
+[**Fusion of Multimodal Biometrics**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=3)[[slides\]](https://www.comp.hkbu.edu.hk/wsb2020/slides/Josef_Kittler.pdf) 5.80MB
+
+
 
 [**Presentations by Hands-on Session Awardees**](https://www.comp.hkbu.edu.hk/wsb2020/hands_on.php)
 
