@@ -22,9 +22,7 @@ University of Sassari, Italy
 
 
 
-[**Jing Xiao, Biometrics Applications in PingAn**](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=12)
-
-<img src="https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/jing_xiao.jpg" alt="Jing Xiao" style="zoom: 25%;" />
+<img src="https://www.comp.hkbu.edu.hk/wsb2020/images/speakers/jing_xiao.jpg" alt="Jing Xiao" style="zoom:25%;" />
 
 ### [Jing Xiao](https://www.comp.hkbu.edu.hk/wsb2020/lecturer_details.php?lect_id=12)
 
