@@ -141,8 +141,6 @@
 
 ![1580485240436](https://github.com/ChurchChen/WSB-2020/blob/master/img/1580485240436.png)
 
-(朦胧美)
-
 ![1580485273565](https://github.com/ChurchChen/WSB-2020/blob/master/img/1580485273565.png)
 
 ![1580485296076](https://github.com/ChurchChen/WSB-2020/blob/master/img/1580485296076.png)
